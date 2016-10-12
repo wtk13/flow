@@ -8,3 +8,4 @@
 
 var_dump('test1');
 var_dump('test2');
+var_dump('test3');
