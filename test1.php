@@ -12,3 +12,4 @@ var_dump('test3');
 var_dump('test4');
 var_dump('test5');
 var_dump('test6');
+var_dump('test6');
